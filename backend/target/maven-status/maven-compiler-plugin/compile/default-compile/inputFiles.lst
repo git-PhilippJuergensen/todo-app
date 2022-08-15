@@ -1,0 +1,9 @@
+/Users/philippjurgensen/Documents/projects/ToDo-list/backend/src/main/java/de/juergensen/philipp/todolist/service/ToDoElementRequestMapperImpl.java
+/Users/philippjurgensen/Documents/projects/ToDo-list/backend/src/main/java/de/juergensen/philipp/todolist/model/ToDoElement.java
+/Users/philippjurgensen/Documents/projects/ToDo-list/backend/src/main/java/de/juergensen/philipp/todolist/ToDoListApplication.java
+/Users/philippjurgensen/Documents/projects/ToDo-list/backend/src/main/java/de/juergensen/philipp/todolist/service/ToDoElementRequestMapper.java
+/Users/philippjurgensen/Documents/projects/ToDo-list/backend/src/main/java/de/juergensen/philipp/todolist/repository/ToDoElementRepository.java
+/Users/philippjurgensen/Documents/projects/ToDo-list/backend/src/main/java/de/juergensen/philipp/todolist/model/ToDoElementDTO.java
+/Users/philippjurgensen/Documents/projects/ToDo-list/backend/src/main/java/de/juergensen/philipp/todolist/service/ToDoElementService.java
+/Users/philippjurgensen/Documents/projects/ToDo-list/backend/src/main/java/de/juergensen/philipp/todolist/service/ToDoElementServiceImpl.java
+/Users/philippjurgensen/Documents/projects/ToDo-list/backend/src/main/java/de/juergensen/philipp/todolist/controller/ToDoElementController.java
